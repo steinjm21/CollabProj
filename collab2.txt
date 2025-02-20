@@ -1,2 +1,6 @@
 Hi
 Dr. Kruse
+
+
+Bye
+Dr. Kruse
